@@ -1,1 +1,1 @@
-## #DevDiar blog posts as .md files
+## #DevDiary blog posts as .md files
